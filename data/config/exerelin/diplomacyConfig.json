@@ -1,0 +1,14 @@
+{
+	"events":[
+		{
+			"name":"Cock and Ball Torture",	# love conquers all
+			"stage":"cbt",
+			"maxRepLevelToOccur":"inhospitable",
+			"repEnsureAtWorst":"hostile",
+			"minRepChange":0.15,
+			"maxRepChange":0.35,
+			"allowPiratesToPirates":true,
+			"desc":"$theOtherFaction loves it when $theFaction crushes their balls. Harder, Daddy!"
+		},
+	]
+}

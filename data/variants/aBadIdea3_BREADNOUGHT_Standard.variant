@@ -1,0 +1,47 @@
+{
+  "displayName": "Standard",
+  "fluxCapacitors": 0,
+  "fluxVents": 50,
+  "goalVariant": true,
+  "hullId": "aBadIdea3_BREADNOUGHT",
+  "hullMods": [
+    "stabilizedshieldemitter"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "aBadIdea3_BREADNOUGHT_Standard",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "aBadIdea2_hound_laser",
+        "WS0002": "devastator",
+        "WS0003": "aBadIdea2_hound_laser",
+        "WS0004": "aBadIdea2_hound_laser",
+        "WS0005": "devastator",
+        "WS0006": "multineedler",
+        "WS0007": "aBadIdea2_hound_laser",
+        "WS0008": "cyclone",
+        "WS0009": "cyclone",
+        "WS0010": "harpoonpod",
+        "WS0011": "harpoonpod",
+        "WS0012": "dualflak",
+        "WS0013": "heavyneedler",
+        "WS0014": "dualflak",
+        "WS0015": "heavyneedler",
+        "WS0016": "dualflak",
+        "WS0017": "dualflak",
+        "WS0018": "heavyneedler",
+        "WS0019": "dualflak",
+        "WS0020": "dualflak",
+        "WS0021": "dualflak",
+        "WS0022": "dualflak",
+        "WS0023": "dualflak",
+        "WS0024": "dualflak"
+      }
+    }
+  ],
+  "wings": []
+}

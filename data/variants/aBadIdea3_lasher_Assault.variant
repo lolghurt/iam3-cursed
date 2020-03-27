@@ -1,0 +1,43 @@
+{
+  "displayName": "Assault",
+  "fluxCapacitors": 8,
+  "fluxVents": 10,
+  "goalVariant": true,
+  "hullId": "aBadIdea3_lasher",
+  "hullMods": [
+    "heavyarmor",
+    "blast_doors"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "aBadIdea3_lasher_Assault",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS 001": "sabot",
+        "WS 004": "sabot"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 002": "lightdualmg",
+        "WS 003": "lightdualmg"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 005": "lightmortar",
+        "WS 006": "lightmortar",
+        "WS 007": "lightmortar"
+      }
+    }
+  ],
+  "wings": []
+}

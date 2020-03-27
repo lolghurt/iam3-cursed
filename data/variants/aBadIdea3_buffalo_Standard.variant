@@ -1,0 +1,15 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 7,
+    "fluxVents": 6,
+    "goalVariant": true,
+    "hullId": "aBadIdea3_buffalo",
+    "hullMods": ["auxiliarythrusters"],
+    "permaMods": [],
+    "variantId": "aBadIdea3_buffalo_Standard",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {"WS 001": "lrpdlaser"}
+    }]
+}

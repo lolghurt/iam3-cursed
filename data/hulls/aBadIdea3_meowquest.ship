@@ -1,0 +1,267 @@
+{
+  "bounds": [
+    -194,
+    3.5,
+    -194,
+    -31,
+    -142.5,
+    -88.5,
+    17.5,
+    -98,
+    169,
+    -34,
+    191.5,
+    -44.5,
+    184.5,
+    0.5,
+    226.5,
+    33.5,
+    127,
+    58.5,
+    103.5,
+    111.5,
+    43.5,
+    101,
+    49.5,
+    74,
+    -39,
+    75.5,
+    -35,
+    104.5,
+    -95,
+    61.5,
+    -112.5,
+    85.5,
+    -107.5,
+    132,
+    -136,
+    120,
+    -148,
+    70,
+    -148,
+    30
+  ],
+  "center": [
+    133.5,
+    196
+  ],
+  "collisionRadius": 250,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 10,
+      "length": 50,
+      "location": [
+        -193.5,
+        -14.5
+      ],
+      "style": "MIDLINE",
+      "width": 10
+    },
+    {
+      "angle": 177,
+      "contrailSize": 10,
+      "length": 50,
+      "location": [
+        -194.5,
+        -25.5
+      ],
+      "style": "MIDLINE",
+      "width": 10
+    },
+    {
+      "angle": -177,
+      "contrailSize": 10,
+      "length": 50,
+      "location": [
+        -194.5,
+        -3.5
+      ],
+      "style": "MIDLINE",
+      "width": 10
+    }
+  ],
+  "height": 422,
+  "hullId": "aBadIdea3_meowquest",
+  "hullName": "Meowquest",
+  "hullSize": "CAPITAL_SHIP",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 243.5,
+  "spriteName": "graphics/ships/aBadIdea3_meowquest.png",
+  "style": "MIDLINE",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": -78,
+      "arc": 157,
+      "id": "WS0001",
+      "locations": [
+        11.5,
+        -69
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -61,
+      "arc": 135,
+      "id": "WS0002",
+      "locations": [
+        85,
+        -44.5
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 96,
+      "arc": 127,
+      "id": "WS0003",
+      "locations": [
+        -43,
+        47.5
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 122,
+      "id": "WS0004",
+      "locations": [
+        34,
+        47.5
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -90,
+      "arc": 129,
+      "id": "WS0005",
+      "locations": [
+        -66,
+        -76.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -107.5,
+      "arc": 115,
+      "id": "WS0006",
+      "locations": [
+        -104,
+        -71.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -139,
+      "arc": 125,
+      "id": "WS0007",
+      "locations": [
+        -138,
+        -60.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 136.5,
+      "arc": 162,
+      "id": "WS0008",
+      "locations": [
+        -126,
+        63.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 135,
+      "id": "WS0009",
+      "locations": [
+        -8,
+        50.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 45,
+      "arc": 136,
+      "id": "WS0010",
+      "locations": [
+        101,
+        68.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -24.5,
+      "arc": 100,
+      "id": "WS0011",
+      "locations": [
+        130,
+        -28.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -69.5,
+      "arc": 138,
+      "id": "WS0012",
+      "locations": [
+        46,
+        -60.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 98.5,
+      "arc": 100,
+      "id": "WS0013",
+      "locations": [
+        216.5,
+        38
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    },
+    {
+      "angle": -142.5,
+      "arc": 100,
+      "id": "WS0014",
+      "locations": [
+        180.5,
+        -40.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    }
+  ],
+  "width": 241
+}

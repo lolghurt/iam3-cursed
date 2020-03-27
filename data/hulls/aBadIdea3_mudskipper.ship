@@ -1,0 +1,118 @@
+{
+  "bounds": [
+    -42,
+    24.5,
+    26.5,
+    26,
+    33.5,
+    3,
+    27.5,
+    -19,
+    -43.5,
+    -23.5
+  ],
+  "builtInMods": [
+    "civgrade"
+  ],
+  "center": [
+    30,
+    46
+  ],
+  "collisionRadius": 61,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 64,
+      "location": [
+        -43,
+        -2
+      ],
+      "style": "LOW_TECH",
+      "width": 24
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 24,
+      "location": [
+        -43,
+        23
+      ],
+      "style": "LOW_TECH",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 24,
+      "location": [
+        -43,
+        -25
+      ],
+      "style": "LOW_TECH",
+      "width": 8
+    },
+    {
+      "angle": 150,
+      "contrailSize": 128,
+      "length": 16,
+      "location": [
+        12,
+        27
+      ],
+      "style": "LOW_TECH",
+      "width": 8
+    },
+    {
+      "angle": 210,
+      "contrailSize": 128,
+      "length": 16,
+      "location": [
+        12,
+        -30
+      ],
+      "style": "LOW_TECH",
+      "width": 8
+    }
+  ],
+  "height": 84,
+  "hullId": "aBadIdea3_mudskipper",
+  "hullName": "Mudskipper",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 60,
+  "spriteName": "graphics/ships/aBadIdea3_mudskipper.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 180,
+      "arc": 120,
+      "id": "WS 003",
+      "locations": [
+        -13,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 002",
+      "locations": [
+        16.5,
+        -0.5
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "DECORATIVE"
+    }
+  ],
+  "width": 57
+}

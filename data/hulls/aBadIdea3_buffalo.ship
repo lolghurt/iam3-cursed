@@ -1,0 +1,172 @@
+{
+  "bounds": [
+    85.5,
+    -1,
+    59,
+    45,
+    -45,
+    40,
+    -51,
+    -35.5,
+    65.5,
+    -41
+  ],
+  "builtInMods": [
+    "civgrade"
+  ],
+  "builtInWeapons": {
+    "WS 003": "blinker_red",
+    "WS 004": "blinker_green",
+    "WS 005": "blinker_red",
+    "WS 006": "blinker_green"
+  },
+  "center": [
+    50,
+    63
+  ],
+  "collisionRadius": 112,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 48,
+      "location": [
+        -56,
+        24
+      ],
+      "style": "MIDLINE",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 48,
+      "location": [
+        -56,
+        15.5
+      ],
+      "style": "MIDLINE",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 48,
+      "location": [
+        -58.5,
+        -12
+      ],
+      "style": "MIDLINE",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 48,
+      "location": [
+        -59.5,
+        -21
+      ],
+      "style": "MIDLINE",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 48,
+      "location": [
+        -59,
+        -30
+      ],
+      "style": "MIDLINE",
+      "width": 8
+    }
+  ],
+  "height": 148,
+  "hullId": "aBadIdea3_buffalo",
+  "hullName": "Buffalo",
+  "hullSize": "DESTROYER",
+  "shieldCenter": [
+    10,
+    0
+  ],
+  "shieldRadius": 100,
+  "spriteName": "graphics/ships/aBadIdea3_Buffalo_Base.png",
+  "style": "MIDLINE",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 210,
+      "id": "WS 001",
+      "locations": [
+        70.5,
+        -1
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 180,
+      "arc": 5,
+      "id": "WS 002",
+      "locations": [
+        -53,
+        -0.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    },
+    {
+      "angle": 0,
+      "arc": 1,
+      "id": "WS 003",
+      "locations": [
+        68.5,
+        39.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS 004",
+      "locations": [
+        68.5,
+        -40.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS 005",
+      "locations": [
+        -38.5,
+        40.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS 006",
+      "locations": [
+        -41.5,
+        -41.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    }
+  ],
+  "width": 100
+}

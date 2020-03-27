@@ -1,0 +1,24 @@
+{
+  "displayName": "Standard",
+  "fluxCapacitors": 4,
+  "fluxVents": 6,
+  "goalVariant": true,
+  "hullId": "aBadIdea3_mudskipper",
+  "hullMods": [
+    "insulatedengine"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "aBadIdea3_mudskipper_Standard",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 003": "lightdualmg"
+      }
+    }
+  ],
+  "wings": []
+}

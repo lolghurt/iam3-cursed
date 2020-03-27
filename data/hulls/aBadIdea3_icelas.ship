@@ -1,0 +1,214 @@
+{
+  "bounds": [
+    246,
+    67.5,
+    -14.5,
+    68.5,
+    -28.5,
+    90,
+    -42,
+    60,
+    -98,
+    47,
+    -98,
+    -47,
+    -43,
+    -60,
+    -25.5,
+    -89,
+    -14.5,
+    -68.5,
+    170,
+    -64,
+    197,
+    2.5,
+    269,
+    18.5
+  ],
+  "builtInMods": [
+    "civgrade"
+  ],
+  "center": [
+    99,
+    108
+  ],
+  "collisionRadius": 330,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 32,
+      "location": [
+        -99,
+        44
+      ],
+      "style": "MIDLINE",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 48,
+      "location": [
+        -101,
+        33
+      ],
+      "style": "MIDLINE",
+      "width": 12
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 48,
+      "location": [
+        -104,
+        17
+      ],
+      "style": "MIDLINE",
+      "width": 12
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 96,
+      "location": [
+        -104,
+        0
+      ],
+      "style": "MIDLINE",
+      "width": 24
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 48,
+      "location": [
+        -104,
+        -17
+      ],
+      "style": "MIDLINE",
+      "width": 12
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 48,
+      "location": [
+        -101,
+        -32
+      ],
+      "style": "MIDLINE",
+      "width": 12
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 32,
+      "location": [
+        -99,
+        -44
+      ],
+      "style": "MIDLINE",
+      "width": 8
+    }
+  ],
+  "height": 400,
+  "hullId": "aBadIdea3_icelas",
+  "hullName": "Atlas (ICE)",
+  "hullSize": "CAPITAL_SHIP",
+  "shieldCenter": [
+    84,
+    0
+  ],
+  "shieldRadius": 230,
+  "spriteName": "graphics/ships/aBadIdea3_icelas.png",
+  "style": "MIDLINE",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 005",
+      "locations": [
+        270.5,
+        19
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    },
+    {
+      "angle": 140,
+      "arc": 5,
+      "id": "WS 006",
+      "locations": [
+        -88,
+        54
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    },
+    {
+      "angle": 220,
+      "arc": 5,
+      "id": "WS 007",
+      "locations": [
+        -88,
+        -54
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    },
+    {
+      "angle": -90,
+      "arc": 270,
+      "id": "WS0001",
+      "locations": [
+        -27,
+        -78
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 270,
+      "id": "WS0002",
+      "locations": [
+        -27,
+        78
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 38,
+      "arc": 5,
+      "id": "WS0003",
+      "locations": [
+        256,
+        62
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    },
+    {
+      "angle": -33.5,
+      "arc": 5,
+      "id": "WS0004",
+      "locations": [
+        173.5,
+        -62.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    }
+  ],
+  "width": 200
+}

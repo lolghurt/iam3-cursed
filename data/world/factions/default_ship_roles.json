@@ -1,0 +1,174 @@
+{
+	"combatSmallForSmallFleet":{
+		"aBadIdea3_lasher_Assault":2,
+		"aBadIdea3_lasher_CS":2,
+		"aBadIdea3_lasher_Overdriven":2,
+		"aBadIdea3_lasher_PD":1,
+		"aBadIdea3_lasher_Standard":2,
+		"aBadIdea3_lasher_Strike":1,
+		"aBadIdea3_lasher_luddic_Standard":10,
+		"aBadIdea3_lasher_pather_Raider":10,
+		"lasher_CS":-2,
+		"lasher_Assault":-2,
+		"lasher_Overdriven":-2,
+		"lasher_PD":-1,
+		"lasher_Standard":-2,
+		"lasher_Strike":-1,
+		"lasher_luddic_church_Standard":-10,
+		"lasher_luddic_path_Raider":-10,
+		
+		"aBadIdea3_mudskipper_mkii_CS":5,
+		"aBadIdea3_mudskipper_mkii_Hellbore":5,
+		"mudskipper2_CS":-5,
+		"mudskipper2_Hellbore":-5,
+		
+		"aBadIdea3_kite_hegemony_Interceptor":10,
+		"aBadIdea3_kite_pirates_Raider":10,
+		"aBadIdea3_kite_luddic_path_Raider":5,
+		"aBadIdea3_kite_luddic_path_Strike":5,
+		"kite_hegemony_Interceptor":-10,
+		"kite_pirates_Raider":-10,
+		"kite_luddic_path_Raider":-5,
+		"kite_luddic_path_Strike":-5,
+	},
+	
+	"combatSmall":{
+		"aBadIdea3_lasher_Assault":2,
+		"aBadIdea3_lasher_CS":2,
+		"aBadIdea3_lasher_Overdriven":2,
+		"aBadIdea3_lasher_PD":1,
+		"aBadIdea3_lasher_Standard":2,
+		"aBadIdea3_lasher_Strike":1,
+		"aBadIdea3_lasher_luddic_Standard":10,
+		"aBadIdea3_lasher_pather_Raider":10,
+		"lasher_CS":-2,
+		"lasher_Assault":-2,
+		"lasher_Overdriven":-2,
+		"lasher_PD":-1,
+		"lasher_Standard":-2,
+		"lasher_Strike":-1,
+		"lasher_luddic_church_Standard":-10,
+		"lasher_luddic_path_Raider":-10,
+		
+		"aBadIdea3_mudskipper_mkii_CS":5,
+		"aBadIdea3_mudskipper_mkii_Hellbore":5,
+		"mudskipper2_CS":-5,
+		"mudskipper2_Hellbore":-5,
+		
+		"aBadIdea3_Tempest_Attack":10,
+		"tempest_Attack":-10,
+		
+		"kite_hegemony_Interceptor":10,
+		"kite_pirates_Raider":10,
+		"kite_luddic_path_Raider":5,
+		"kite_luddic_path_Strike":5,
+	},
+	"combatMedium":{
+		"aBadIdea3_hammerhead_Overdriven":2,
+		"aBadIdea3_hammerhead_Elite":3,
+		"aBadIdea3_hammerhead_Balanced":3,
+		"aBadIdea3_hammerhead_Support":2,
+		"hammerhead_Balanced":-3,
+		"hammerhead_Elite":-3,
+		"hammerhead_Overdriven":-2,
+		"hammerhead_Support":-2,
+		
+		"aBadIdea3_shrike_Support":3,
+		"aBadIdea3_shrike_Attack":7,
+		"aBadIdea3_shrike_p_Attack":10,
+	},
+	
+	"combatLarge":{
+		"aBadIdea3_brickcruiser_Standard":10,
+	},
+	
+	"combatCapital":{
+		"aBadIdea3_conquest_Standard":5,
+		"aBadIdea3_conquest_Elite":5,
+		"conquest_Standard":-5,
+		"conquest_Elite":-5,
+		
+		"aBadIdea3_onslaught_Standard":4,
+		"aBadIdea3_onslaught_Outdated":4,
+		"aBadIdea3_onslaught_Elite":2,
+		"aBadIdea3_onslaught_xiv_Elite":10,
+		"onslaught_Standard":-4,
+		"onslaught_Outdated":-4,
+		"onslaught_Elite":-2,
+		"onslaught_xiv_Elite":-10,
+		
+		"aBadIdea3_paragon_Elite":4,
+		"aBadIdea3_paragon_Escort":3,
+		"aBadIdea3_paragon_Raider":3,
+		"paragon_Elite":-4,
+		"paragon_Escort":-3,
+		"paragon_Raider":-3,
+		
+		"aBadIdea3_lobstership_Standard": 10,
+		
+		"aBadIdea3_ANVIL_Standard":10,
+		
+		"aBadIdea3_BREADNOUGHT_Standard":10,
+		
+		"aBadIdea3_meowquest_Standard":10,
+		
+		"aBadIdea3_threadnought_Standard":10,
+		
+		"aBadIdea3_exp_cookie_Baked":10,
+		
+		"aBadIdea3_Hounslaught_Standard":10,
+		
+		"aBadIdea3_onslobster_Elite":10,
+	},
+	
+	"combatFreighterSmall":{
+		"aBadIdea3_kite_hegemony_Interceptor":10,
+		"aBadIdea3_kite_pirates_Raider":10,
+		"aBadIdea3_kite_Standard":5,
+		"aBadIdea3_kite_Support":5,
+		"aBadIdea3_kite_luddic_path_Raider":5,
+		"aBadIdea3_kite_luddic_path_Strike":5,
+		"kite_hegemony_Interceptor":-10,
+		"kite_pirates_Raider":-10,
+		"kite_Standard":-5,
+		"kite_Support":-5,
+		"kite_luddic_path_Raider":-5,
+		"kite_luddic_path_Strike":-5,
+	},
+	
+	"civilianRandom":{
+		"aBadIdea3_mudskipper_Standard":10,
+		"mudskipper_Standard":-10,
+		
+		"aBadIdea3_kite_original_Stock":1,
+		"kite_original_Stock":-1,
+	},
+	
+	"phaseLarge":{
+		"aBadIdea3_doom_Strike":5,
+		"aBadIdea3_doom_Support":5,
+		"doom_Strike":-5,
+		"doom_Support":-5,
+	},
+	
+	"personnelSmall":{
+		"aBadIdea3_mudskipper_Standard":1,
+		"mudskipper_Standard":-1,
+		
+		"aBadIdea3_kite_Standard":10,
+		"kite_Standard":-10,
+	},
+	
+	"linerSmall":{
+		"aBadIdea3_mudskipper_Standard":10,
+		"mudskipper_Standard":-10,
+		
+		"aBadIdea3_kite_original_Stock":1,
+		"kite_original_Stock":-1,
+	},
+	
+	"freighterLarge":{
+		"aBadIdea3_icelas_Standard":10,
+	},
+
+}

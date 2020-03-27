@@ -1,0 +1,199 @@
+{
+  "bounds": [
+    -57,
+    -31,
+    -52.5,
+    30.5,
+    19.5,
+    56,
+    80,
+    25.5,
+    79,
+    -21.5,
+    9,
+    -47.5
+  ],
+  "center": [
+    64,
+    69.5
+  ],
+  "collisionRadius": 118.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 48,
+      "location": [
+        -63.5,
+        11
+      ],
+      "style": "HIGH_TECH",
+      "width": 20
+    },
+    {
+      "angle": 180,
+      "contrailSize": 29,
+      "length": 47.5,
+      "location": [
+        -64,
+        -14.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 29
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 24,
+      "location": [
+        -53.5,
+        31
+      ],
+      "style": "HIGH_TECH",
+      "width": 6
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 24,
+      "location": [
+        -56.5,
+        25
+      ],
+      "style": "HIGH_TECH",
+      "width": 6
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 24,
+      "location": [
+        -58.5,
+        20
+      ],
+      "style": "HIGH_TECH",
+      "width": 6
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 24,
+      "location": [
+        -60,
+        -24.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 6
+    },
+    {
+      "angle": -23,
+      "contrailSize": 64,
+      "length": 24,
+      "location": [
+        -58,
+        -28.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 6
+    }
+  ],
+  "height": 170,
+  "hullId": "aBadIdea3_shrike",
+  "hullName": "Shrike",
+  "hullSize": "DESTROYER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 116,
+  "spriteName": "graphics/ships/aBadIdea3_shrike_base.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 80,
+      "arc": 190,
+      "id": "WS 000",
+      "locations": [
+        22,
+        38.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 210,
+      "id": "WS 001",
+      "locations": [
+        40,
+        3
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -70,
+      "arc": 210,
+      "id": "WS 002",
+      "locations": [
+        19.5,
+        -34
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 25,
+      "arc": 220,
+      "id": "WS 003",
+      "locations": [
+        55.5,
+        17.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 005",
+      "locations": [
+        64,
+        -11.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 130,
+      "arc": 190,
+      "id": "WS 006",
+      "locations": [
+        -28.5,
+        32
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 230,
+      "arc": 190,
+      "id": "WS 007",
+      "locations": [
+        -25,
+        -34.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 118
+}

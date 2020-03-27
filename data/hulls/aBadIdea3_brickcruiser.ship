@@ -1,0 +1,126 @@
+{
+  "bounds": [
+    114.5,
+    -50.5,
+    -111,
+    -49.5,
+    -111,
+    49.5,
+    114.5,
+    50.5
+  ],
+  "center": [
+    55,
+    118
+  ],
+  "collisionRadius": 135.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -115,
+        18
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    },
+    {
+      "angle": -180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -115,
+        -18
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    },
+    {
+      "angle": 180,
+      "contrailSize": 11,
+      "length": 37,
+      "location": [
+        -118,
+        32.5
+      ],
+      "style": "LOW_TECH",
+      "width": 11
+    },
+    {
+      "angle": -180,
+      "contrailSize": 11,
+      "length": 37,
+      "location": [
+        -118,
+        -32.5
+      ],
+      "style": "LOW_TECH",
+      "width": 11
+    }
+  ],
+  "height": 236,
+  "hullId": "aBadIdea3_brickcruiser",
+  "hullName": "Brick",
+  "hullSize": "CRUISER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 135,
+  "spriteName": "graphics/ships/aBadIdea3_brickcruiser.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 180,
+      "arc": 240,
+      "id": "WS0001",
+      "locations": [
+        -64.5,
+        1
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": 0,
+      "arc": 180,
+      "id": "WS0002",
+      "locations": [
+        -15,
+        1
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": 0,
+      "arc": 120,
+      "id": "WS0003",
+      "locations": [
+        36,
+        1
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": 0,
+      "arc": 60,
+      "id": "WS0004",
+      "locations": [
+        82,
+        1
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "UNIVERSAL"
+    }
+  ],
+  "width": 108
+}

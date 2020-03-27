@@ -1,0 +1,31 @@
+{
+  "displayName": "Standard",
+  "fluxCapacitors": 6,
+  "fluxVents": 10,
+  "goalVariant": true,
+  "hullId": "aBadIdea3_lasher",
+  "hullMods": [
+    "unstable_injector",
+    "auxiliarythrusters"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "aBadIdea3_lasher_Standard",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 001": "heatseeker",
+        "WS 002": "lightag",
+        "WS 003": "lightag",
+        "WS 004": "heatseeker",
+        "WS 005": "lightmg",
+        "WS 006": "lightmg",
+        "WS 007": "lightmg"
+      }
+    }
+  ],
+  "wings": []
+}

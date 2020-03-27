@@ -1,0 +1,25 @@
+{
+  "displayName": "Standard",
+  "fluxCapacitors": 20,
+  "fluxVents": 10,
+  "goalVariant": true,
+  "hullId": "aBadIdea3_icelas",
+  "hullMods": [
+    "expanded_cargo_holds"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "aBadIdea3_icelas_Standard",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "lightdualmg",
+        "WS0002": "lightdualmg"
+      }
+    }
+  ],
+  "wings": []
+}

@@ -1,0 +1,57 @@
+{
+  "displayName": "CGR Standard",
+  "fluxCapacitors": 10,
+  "fluxVents": 9,
+  "goalVariant": true,
+  "hullId": "aBadIdea3_lasher_luddic",
+  "hullMods": [
+    "blast_doors",
+    "armoredweapons",
+    "insulatedengine",
+    "auxiliarythrusters"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "aBadIdea3_lasher_luddic_Standard",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 002": "lightmortar",
+        "WS 003": "lightmortar"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS 001": "sabot"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS 004": "annihilator"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 007": "lightmortar"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 005": "lightmg",
+        "WS 006": "lightmg"
+      }
+    }
+  ],
+  "wings": []
+}

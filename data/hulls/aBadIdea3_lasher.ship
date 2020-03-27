@@ -1,0 +1,210 @@
+{
+  "bounds": [
+    -37,
+    -13.5,
+    -35,
+    19.5,
+    0,
+    38.5,
+    21,
+    20,
+    39,
+    18.5,
+    45.5,
+    3,
+    41,
+    -13.5,
+    20,
+    -12,
+    7.5,
+    -34,
+    -13,
+    -34
+  ],
+  "center": [
+    52,
+    42.5
+  ],
+  "collisionRadius": 75,
+  "coversColor": "255,188,175,255",
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 64,
+      "location": [
+        -36,
+        0
+      ],
+      "style": "LOW_TECH",
+      "width": 16
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 32,
+      "location": [
+        -37,
+        10.5
+      ],
+      "style": "LOW_TECH",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 32,
+      "location": [
+        -35,
+        17.5
+      ],
+      "style": "LOW_TECH",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 32,
+      "location": [
+        -37,
+        -11
+      ],
+      "style": "LOW_TECH",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 32,
+      "location": [
+        -32,
+        -18.5
+      ],
+      "style": "LOW_TECH",
+      "width": 8
+    }
+  ],
+  "height": 91,
+  "hullId": "aBadIdea3_lasher",
+  "hullName": "Lasher",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 64,
+  "spriteName": "graphics/ships/aBadIdea3_lasher.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 001",
+      "locations": [
+        8.5,
+        34.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 002",
+      "locations": [
+        18.5,
+        25.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 003",
+      "locations": [
+        19.5,
+        -19.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 004",
+      "locations": [
+        9.5,
+        -30.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 60,
+      "arc": 270,
+      "id": "WS 005",
+      "locations": [
+        -4,
+        10.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -60,
+      "arc": 270,
+      "id": "WS 006",
+      "locations": [
+        -5,
+        -8.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 270,
+      "id": "WS 007",
+      "locations": [
+        24,
+        3
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 160,
+      "arc": 60,
+      "id": "WS 008",
+      "locations": [
+        -12.5,
+        34.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    },
+    {
+      "angle": 200,
+      "arc": 60,
+      "id": "WS 009",
+      "locations": [
+        -16,
+        -30.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    }
+  ],
+  "width": 92
+}

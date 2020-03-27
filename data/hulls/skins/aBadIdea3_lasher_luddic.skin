@@ -1,0 +1,18 @@
+{
+	"baseHullId": "aBadIdea3_lasher",
+	"skinHullId": "aBadIdea3_lasher_luddic",
+	"hullName": "Lasher (LC)",
+	"descriptionId": "aBadIdea3_lasher",
+	"baseValueMult": 1,
+	"spriteName": "graphics/ships/aBadIdea3_lasher_luddic.png",
+	"descriptionPrefix":"This ship has been given Luddic Church markings. Systems modifications are otherwise superficial.",
+	"tags":["LC_bp"],
+	"tech":"Luddic Church",
+	"removeWeaponSlots":[], 		# ids
+	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file
+	"removeBuiltInMods":[], 		# hullmod ids
+	"removeBuiltInWeapons":[], 		# weapon slot ids
+	"builtInMods":[],
+	"builtInWeapons":{
+    }
+}

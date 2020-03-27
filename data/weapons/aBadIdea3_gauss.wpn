@@ -1,0 +1,55 @@
+{
+  "animationType": "GLOW_AND_FLASH",
+  "autocharge": true,
+  "barrelMode": "ALTERNATING",
+  "displayArcRadius": 1200,
+  "fireSoundTwo": "gauss_cannon_fire",
+  "glowColor": [
+    100,
+    100,
+    255,
+    255
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "hardpointGlowSprite": "graphics/weapons/aBadIdea3_gauss_cannon_hardpoint_glow.png",
+  "hardpointOffsets": [
+    0,
+    -1
+  ],
+  "hardpointSprite": "graphics/weapons/aBadIdea3_gauss_cannon_hardpoint_base.png",
+  "id": "aBadIdea3_gauss",
+  "muzzleFlashSpec": {
+    "length": 100,
+    "particleColor": [
+      100,
+      100,
+      255,
+      255
+    ],
+    "particleCount": 25,
+    "particleDuration": 0.25,
+    "particleSizeMin": 20,
+    "particleSizeRange": 20,
+    "spread": 5
+  },
+  "noImpactSounds": false,
+  "noNonShieldImpactSounds": false,
+  "noShieldImpactSounds": false,
+  "projectileSpecId": "gauss_shot",
+  "renderAboveAllWeapons": 0,
+  "size": "LARGE",
+  "specClass": "projectile",
+  "textureType": ROUGH,
+  "turretAngleOffsets": [
+    0
+  ],
+  "turretGlowSprite": "graphics/weapons/aBadIdea3_gauss_cannon_turret_glow.png",
+  "turretOffsets": [
+    0,
+    -1
+  ],
+  "turretSprite": "graphics/weapons/aBadIdea3_gauss_cannon_turret_base.png",
+  "type": "BALLISTIC"
+}

@@ -1,0 +1,14 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 8,
+    "fluxVents": 6,
+    "hullId": "aBadIdea3_buffalo_pirates",
+    "hullMods": ["auxiliarythrusters"],
+    "permaMods": [],
+    "variantId": "aBadIdea3_buffalo_pirates_Standard",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {"WS 001": "vulcan"}
+    }]
+}

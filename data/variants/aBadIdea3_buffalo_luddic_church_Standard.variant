@@ -1,0 +1,14 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 7,
+    "fluxVents": 6,
+    "hullId": "aBadIdea3_buffalo_luddic_church",
+    "hullMods": ["auxiliarythrusters"],
+    "permaMods": [],
+    "variantId": "aBadIdea3_buffalo_luddic_church_Standard",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {"WS 001": "lrpdlaser"}
+    }]
+}

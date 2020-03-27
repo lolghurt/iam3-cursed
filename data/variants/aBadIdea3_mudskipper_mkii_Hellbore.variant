@@ -1,0 +1,14 @@
+{
+    "displayName": "Hellbore",
+    "fluxCapacitors": 10,
+    "fluxVents": 4,
+    "hullId": "aBadIdea3_mudskipper_mkii",
+    "hullMods": [],
+    "quality": 0.5,
+    "variantId": "aBadIdea3_mudskipper_mkii_Hellbore",
+    "weaponGroups": [{
+        "autofire": false,
+        "mode": "LINKED",
+        "weapons": {"WS 002": "hellbore"}
+    }]
+}

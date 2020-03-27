@@ -1,0 +1,17 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 4,
+    "fluxVents": 3,
+    "hullId": "aBadIdea3_buffalo_hegemony",
+    "hullMods": [
+        "auxiliarythrusters",
+        "insulatedengine"
+    ],
+    "permaMods": [],
+    "variantId": "aBadIdea3_buffalo_hegemony_Standard",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {"WS 001": "lrpdlaser"}
+    }]
+}

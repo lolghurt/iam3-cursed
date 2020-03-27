@@ -1,0 +1,79 @@
+id,type,text1,text2,text3,notes
+aBadIdea3_gauss,WEAPON,"A long-range weapon designed to overload the target's shields. The heavy kinetic slug it fires is also effective against all but the heaviest armor.
+
+Uses magnetic coils to accelerate a 300mm caseless ultra-heavy elemental slug to relativistic speeds. Usually rated at the hundreds of giga-amperes range, rarely exceeding one tera-ampere. Unlike most ballistic weapons, has a very high flux load when fired. Turrets mounted with this system have an extremely poor turn rate. 
+
+Very effective weapon whose usefulness is limited by the low reactor power of ships that typically feature large ballistic weapon mounts. ",,,
+aBadIdea3_conquest,SHIP,"The Conquest-class battlecruiser is the embodiment of concentrated firepower. Developed in the period just preceding the popularization of fighter craft, the class emphasizes firepower and speed over armor protection.
+
+Space Naval tacticians of the day were confident that new weapons systems would always outperform armor and shields and thus were the key to winning an engagement. So why not build a ship for speed and power? Give it the armor protection of a cruiser, but arm it with the best weapons available to any ship, and have it remain faster than any of those lumbering behemoths of the line. The Conquest is a good example of these concepts put into a hull. Many other advanced technologies were incorporated into the design, including weapon mounts designed for a circling engagement. This maneuver requires greater navigational skill while serving to provide more tactical options to the commanding officers. 
+
+Fortune favors the bold, the ancients said. This class of ships does indeed favor the bold captain, willing to risk everything for the thrill of victory.",,,
+aBadIdea3_hammerhead,SHIP,"A midline destroyer from the golden age of the Domain, the Hammerhead is respected for its staying power in battle as well as its ballistic capabilities.",,,
+aBadIdea3_lasher,SHIP,"A favorite of pirates and private armies due to the ubiquity of the blueprints and its non-demanding support profile, Lasher-class frigates pack a respectable amount of ballistic firepower.
+
+Lasher captains are usually no-nonsense types who let their weapons do the talking, and pick through the debris of enemy ships as opposed to trying more diplomatic or covert means of getting the job done. More often than not, that job involves quickly and effectively striking at (or guarding) small or medium-sized trade convoys. The light fighter and frigate escorts usually found guarding such convoys are hardly a match for the hail of projectiles a Lasher can quickly unleash. If that does not get the job done, the Lasher has another nasty surprise in wait - two missile hardpoints, more often than not fitted with ""finisher"" types of missile, such as the Harpoon MRM.",,,
+aBadIdea3_Tempest,SHIP,"An asymmetric, advanced design from the late Expansion Epoch, the Tempest-class is the quintessential attack frigate - fast, deadly and difficult to destroy.",,,
+aBadIdea3_mudskipper,SHIP,"Most commonly used as interplanetary ferry, the Mudskipper is indeed interstellar-capable. The ship has no built-in shield generator so must rely on its durable - for a civilian craft - armour to protect passengers and cargo. There is little hope for the Mudskipper in combat, but it is generally equipped with a rear-facing turret to foil attacks by the ever-popular Salamander missile.
+
+The HGA-220 was first produced as the ""Pegasus""-class but was soon anointed with the altogether more humble name ""Mudskipper"". This tough little ship has been a mainstay in backwater civilian transport for centuries, and although not pretty, the rugged construction simplifies maintenance and generous bay doors allow for great versatility. To this point, the Mudskipper's image in the public mind was cemented by a somewhat unlikely holovid sequence featuring a Mudskipper transporting a herd of bovids to a picturesque arid-terraform.",,,
+aBadIdea3_buffalo,SHIP,"The go-to choice for medium cargo hauling in the Sector, the Buffalo-class freighter exemplifies the ""Load-n-Pray"" principle prevalent in Sector shipping.
+
+Sporting just a single small weapon emplacement, the hull of the ship is no more than a large engine with a tiny crew quarters section and cargo grapplers. A captain taking this ship out without a convoy rarely gets to make the same mistake twice. Incapable of anything resembling a combat maneuver, the lateral thrusters on Buffalo-class ships are designed to merely enable it to dock when (and if) it reaches its destination.
+
+The ship engines are the greatest contributor to hull cost, which, while low, is still within the norms for a medium freighter. The greatest contributing factor to its ubiquity is the fact that the blueprint for this ship is usually hardcoded into every orbital shipyard's blueprint database.",,,
+aBadIdea3_doom,SHIP,"Designed when phase technology was generally unknown and phase detectors were not a standard of every sensor package, this cruiser has lost the advantage of surprise - but retains a dangerous and flexible weapons loadout. 
+
+Certain unnerving psychological phenomena have been reported by sensitive crew members after enduring many rapid phase-shifts in combat conditions. Domain Navy reports on the subject were never declassified and are thought to have been lost since the Collapse.",,,
+aBadIdea3_kite,SHIP,"A familiar ship to planetary civilians, the ""Kite""-class aeroshuttle is the day-to-day reminder of Fabrique Orbitale's reputation for quality aeronautical engineering - a valuable specialty even in the age of space travel.
+
+This compact space/aircraft is streamlined for efficient atmospheric flight and boasts a grid of cleverly distributed short-burst maneuvering thrusters coordinated by a delta-level AI subsystem to ensure smooth landings (a point driven home by Fabrique marketing by way of amusing ad-holos featuring a well-dressed couple and an overfull wine glass). The Kite has powerful engines for a civilian ship of its size to ensure speedy transit to and from orbit, though zero-G maneuverability leaves something to be desired when the special subsystem is not engaged.
+
+In the dangerous cycles post-Collapse, the Kite has been outfitted with a defense turret in place of the executive-class viewing dome and, typically overengineered, the two auxiliary jet-pods are replaced with missile systems (which do not need to draw on the limited powerplant of the Kite). It won't stand up in a fair fight, but the Kite can be given unexpectedly sharp teeth and otherwise been known to use modified Kite to deliver strike weapons against helpless freighters, followed by engaging the maneuvering subsystem to make a swift exit to avoid the wrath of their victim's escort.	",,,
+aBadIdea3_onslaught,SHIP,"A venerable design, the Onslaught-class battleships were first created to serve the Domain Armada long ago, before the development of advanced strike weapons, modern energy weapons, and shield systems. 
+
+When first launched from orbital dock, they must have surely dwarfed any other ship in existence and intimidated entire systems. Some even say that they were built to combat non-humans in a long forgotten war. Much later, Domain engineers made modifications to the blueprints to include a shield system, upgraded the FTL drives, and reduced the necessary crew complement through automation and iterative engineering. Even though more advanced blueprints are available, the Onslaught remains the easiest to manufacture due to the brutal simplicity of its systems. 
+
+A ship designed without shields in mind, built to be able to withstand a heavy barrage of enemy fire and strike back while protecting its crew is much loved by its officers and crew. And strike back it can; the Onslaught's unmatched ballistic potential can devastate entire fleets in minutes, its only drawback a logistical dependency on ammunition. 
+
+The Onslaught-class proudly serves as the backbone of the Hegemony Navy.",,,
+aBadIdea3_paragon,SHIP,"The pinnacle of the Domain's battleship designs, though perhaps less the result of military necessity and more of the ambitions of certain senior strategic staff of the Domain Navy - with considerable backing from the Tri-Tachyon corporation, among other major contractors.
+
+No ship can outlast or outgun the Paragon-class, a true Leviathan of a bygone epoch.",,,
+aBadIdea3_lobstership,SHIP,"It was said that the highest ranking official, the Lion of Sindarian, who loved his pet Blobby the Blue Lobster, who was know throughout the farthest sector, to be one of the biggest Blue Lobsters that their eggs have ever produced, his majesty took it upon himself to honor this amphibious legend, and make a ship out of it.
+
+Cycles of failed prototypes later, There was one, who graciously captured, the stunning perfection, of Blobby the Blue Lobster, as its first display to the Lion was met up in cheer, women wept, men howled to its name, and the Lion was happy, as it was majestical in each curve and plate, the artist behind it, some scrub in the backwaters of Sindaria, came up with this desgin, and took 5 cycles to come to its current state, utilizing rubber bands as hydralics and a over cooker for an engine, the beast of Blobby lived on witihin this ship. ",,,
+aBadIdea3_ANVIL,SHIP,"The Blacksmith-class battleship was once an ore-rich asteroid, reforged into a symbol of times past.",,,
+aBadIdea3_BREADNOUGHT,SHIP,"A ship constructed entirely out of stale bread
+
+The designers of this doughy abomination have hollowed it out as much as possible to fit in the ship systems, compromising the already flimsy structure further. Why anyone would willingly fly this ship is a mystery.",,,
+aBadIdea3_meowquest,SHIP,"The Meowquest-cwass battwecwuisew is the embodiment of concentwated fiwepowew. Devewoped in the pewiod just pweceding the popuwawization of fightew cwaft, the cwass emphasizes fiwepowew and speed uvw awmow pwotection.
+
+Space Nyavaw tacticians of the day wewe confident dat nyew weapons systems wouwd awways outpewfowm awmow and shiewds and thus wewe the key to winnying an engagement. So why nyot buiwd a ship fow speed and powew?? give it the awmow pwotection of a cwuisew, but awm it with the best weapons avaiwabwe to any ship, and have it wemain fastew than any of those wumbewing behemoths of the winye. The Meowquest is a good exampwe of these concepts put into a huww. Mwany othew advanced technyowogies wewe incowpowated into the design, incwuding weapon mwounts designyed fow a ciwcwing engagement. Dis mwanyeuvew wequiwes gweatew nyavigationyaw skiww whiwe sewving to pwovide mwowe tacticaw options to the commanding officews. 
+
+Fowtunye favows the bowd, the ancients said. Dis cwass of ships does indeed favow the bowd captain, wiwwing to wisk evewything fow the thwiww of victowy.",,,
+aBadIdea3_brickcruiser,SHIP,"It's a brick, captain. Maybe you should throw it at someone.",,,
+aBadIdea3_threadnought,SHIP,This strange ship shouldn't even be capable of space combat.,,,
+aBadIdea3_exp_cookie,SHIP,It's a delicious cookie come to destroy your colony.,,,
+aBadIdea3_Hounslaught,SHIP,"A venerable design, the Onslaught-class battleships were first created to serve the Domain Armada long ago, before the development of advanced strike weapons, modern energy weapons, and shield systems. 
+
+When first launched from orbital dock, they must have surely dwarfed any other ship in existence and intimidated entire systems. Some even say that they were built to combat non-humans in a long forgotten war. Much later, Domain engineers made modifications to the blueprints to include a shield system, upgraded the FTL drives, and reduced the necessary crew complement through automation and iterative engineering. Even though more advanced blueprints are available, the Onslaught remains the easiest to manufacture due to the brutal simplicity of its systems. 
+
+A ship designed without shields in mind, built to be able to withstand a heavy barrage of enemy fire and strike back while protecting its crew is much loved by its officers and crew. And strike back it can; the Onslaught's unmatched ballistic potential can devastate entire fleets in minutes, its only drawback a logistical dependency on ammunition. 
+
+The Onslaught-class proudly serves as the backbone of the Hegemony Navy.",,,
+aBadIdea3_icelas,SHIP,"The Atlas-class ships are large space-borne cargo platforms with an FTL drive and a few defensive systems. Hundreds of containers can be latched on to the hull and carried with ease by this behemoth. 
+
+Typically used to efficiently resupply entire outposts, the Atlas is ill suited to the small and fast trade runs that are the mainstay of commerce in the sector. Their slow speed and large size always tempt uninvited guests, ranging from curious gawkers come to see the hulking colossus, to scavenging pirates aiming to disable a container's magneto-gravitic fastener, to Pather fanatics bent on destroying it all. Nonetheless, the Hegemony makes wide use of them, especially to offload biomass from farming worlds on a seasonal basis. For this purpose, the Hegemony assembles large Atlas convoys; these are protected by military cruisers that ensure that the lifeline of Hegemony citizens is kept safe.
+
+The captaincy of an Atlas is a rare punishment for the able, an uneven mixture of soul-numbing boredom and abject terror, being the results of normal trade runs and pirate attacks, respectively.",,,
+aBadIdea3_onslobster,SHIP,"A venerable design, the Onslaught-class battleships were first created to serve the Domain Armada long ago, before the development of advanced strike weapons, modern energy weapons, and shield systems. 
+
+When first launched from orbital dock, they must have surely dwarfed any other ship in existence and intimidated entire systems. Some even say that they were built to combat non-humans in a long forgotten war. Much later, Domain engineers made modifications to the blueprints to include a shield system, upgraded the FTL drives, and reduced the necessary crew complement through automation and iterative engineering. Even though more advanced blueprints are available, the Onslaught remains the easiest to manufacture due to the brutal simplicity of its systems. 
+
+A ship designed without shields in mind, built to be able to withstand a heavy barrage of enemy fire and strike back while protecting its crew is much loved by its officers and crew. And strike back it can; the Onslaught's unmatched ballistic potential can devastate entire fleets in minutes, its only drawback a logistical dependency on ammunition. 
+
+The Onslaught-class proudly serves as the backbone of the Hegemony Navy.",,,
+aBadIdea3_shrike,SHIP,"An advanced fast-attack light destroyer from the same design team as the near-ubiquitous Wolf, the Shrike's advanced propulsion system is designed to selectively vent plasma in a 'microburn' maneuver. This allows the Shrike to dart into tactical opportunities as they arise, strike, and escape before a proper counter-attack is mounted. Shields, armour, and sustained flux capacity are somewhat underwhelming due to the need to build a light yet economical hull which prioritizes attack speed, leading to the Shrike gaining the reputation as a glass cannon best entrusted to skilled captains.
+
+Certain unique structural elements in the plasma venting system are known to, with wear, corrode in oxygen-rich atmospheres, so care must be taken to re-apply ceramopolymer coating at each hull servicing.",,,

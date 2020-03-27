@@ -1,0 +1,34 @@
+{
+  "displayName": "Standard",
+  "fluxCapacitors": 0,
+  "fluxVents": 19,
+  "goalVariant": true,
+  "hullId": "aBadIdea3_brickcruiser",
+  "hullMods": [
+    "reinforcedhull",
+    "heavyarmor"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "aBadIdea3_brickcruiser_Standard",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0002": "cyclone",
+        "WS0003": "cyclone",
+        "WS0004": "cyclone"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "guardian"
+      }
+    }
+  ],
+  "wings": []
+}

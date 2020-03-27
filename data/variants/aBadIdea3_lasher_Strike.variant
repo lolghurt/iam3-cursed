@@ -1,0 +1,32 @@
+{
+  "displayName": "Strike",
+  "fluxCapacitors": 8,
+  "fluxVents": 10,
+  "goalVariant": true,
+  "hullId": "aBadIdea3_lasher",
+  "hullMods": [
+    "armoredweapons",
+    "blast_doors",
+    "targetingunit"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "aBadIdea3_lasher_Strike",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 001": "reaper",
+        "WS 002": "lightag",
+        "WS 003": "lightag",
+        "WS 004": "reaper",
+        "WS 005": "lightmg",
+        "WS 006": "lightmg",
+        "WS 007": "lightdualac"
+      }
+    }
+  ],
+  "wings": []
+}
