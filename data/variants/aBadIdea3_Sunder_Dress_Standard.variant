@@ -1,0 +1,32 @@
+{
+  "displayName": "Standard",
+  "fluxCapacitors": 5,
+  "fluxVents": 10,
+  "goalVariant": true,
+  "hullId": "aBadIdea3_Sunder_Dress",
+  "hullMods": [
+    "safetyoverrides"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "aBadIdea3_Sunder_Dress_Standard",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 003": "plasma"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS 001": "heatseeker",
+        "WS 005": "heatseeker"
+      }
+    }
+  ],
+  "wings": []
+}

@@ -1,12 +1,12 @@
 {
-	"masterVersionFile":"https://github.com/lolghurt/ill-advised-3-cursed/raw/master/aBadIdea3.version",
+	"masterVersionFile":"https://github.com/lolghurt/iam3-cursed/raw/master/aBadIdea3.version",
 	"modName":"Ill Advised Modifications 3 Cursed",
 	"modThreadId":17437,
 	"modVersion":
 	{
-		"major":1,
-		"minor":12,
-		"patch":1
+		"major":2,
+		"minor":0,
+		"patch":0
 	},
 	"starsectorVersion":"0.9.1a"
 }

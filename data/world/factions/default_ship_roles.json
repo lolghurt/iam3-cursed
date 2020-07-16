@@ -73,6 +73,8 @@
 		"hammerhead_Overdriven":-2,
 		"hammerhead_Support":-2,
 		
+		"aBadIdea3_Sunder_Dress_Standard":10,
+		
 		"aBadIdea3_shrike_Support":3,
 		"aBadIdea3_shrike_Attack":7,
 		"aBadIdea3_shrike_p_Attack":10,
@@ -106,8 +108,6 @@
 		
 		"aBadIdea3_lobstership_Standard": 10,
 		
-		"aBadIdea3_ANVIL_Standard":10,
-		
 		"aBadIdea3_BREADNOUGHT_Standard":10,
 		
 		"aBadIdea3_meowquest_Standard":10,
@@ -118,7 +118,7 @@
 		
 		"aBadIdea3_Hounslaught_Standard":10,
 		
-		"aBadIdea3_onslobster_Elite":10,
+		"aBadIdea3_jpeg_Standard":10,
 	},
 	
 	"combatFreighterSmall":{
@@ -142,6 +142,10 @@
 		
 		"aBadIdea3_kite_original_Stock":1,
 		"kite_original_Stock":-1,
+	},
+	
+	"carrierLarge":{
+	"aBadIdea3_photobucket_Standard":10,
 	},
 	
 	"phaseLarge":{

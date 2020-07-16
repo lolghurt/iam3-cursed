@@ -1,0 +1,164 @@
+{
+  "bounds": [
+    -122,
+    -30,
+    -98.5,
+    -76.5,
+    -34,
+    -32,
+    6,
+    -56,
+    22.5,
+    -34,
+    87,
+    -14,
+    87,
+    14,
+    22.5,
+    34,
+    6,
+    56,
+    -34,
+    32,
+    -95.5,
+    84,
+    -119.5,
+    25
+  ],
+  "center": [
+    87,
+    137
+  ],
+  "collisionRadius": 137.5,
+  "engineSlots": [
+    {
+      "angle": 179.5,
+      "contrailSize": 6,
+      "length": 54,
+      "location": [
+        -121,
+        1
+      ],
+      "style": "MIDLINE",
+      "width": 6
+    },
+    {
+      "angle": -175.5,
+      "contrailSize": 6,
+      "length": 54,
+      "location": [
+        -122.5,
+        -13.5
+      ],
+      "style": "MIDLINE",
+      "width": 6
+    },
+    {
+      "angle": -164,
+      "contrailSize": 6,
+      "length": 54,
+      "location": [
+        -117.5,
+        -34.5
+      ],
+      "style": "MIDLINE",
+      "width": 6
+    },
+    {
+      "angle": 171,
+      "contrailSize": 6,
+      "length": 54,
+      "location": [
+        -120.5,
+        24.5
+      ],
+      "style": "MIDLINE",
+      "width": 6
+    },
+    {
+      "angle": 158,
+      "contrailSize": 6,
+      "length": 54,
+      "location": [
+        -114,
+        49.5
+      ],
+      "style": "MIDLINE",
+      "width": 6
+    },
+    {
+      "angle": -157.5,
+      "contrailSize": 6,
+      "length": 54,
+      "location": [
+        -105.5,
+        -58.5
+      ],
+      "style": "MIDLINE",
+      "width": 6
+    }
+  ],
+  "height": 235,
+  "hullId": "aBadIdea3_Sunder_Dress",
+  "hullName": "Sunder (Frilly)",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 136,
+  "spriteName": "graphics/ships/aBadIdea3_Sunder_Dress.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 001",
+      "locations": [
+        17,
+        48
+      ],
+      "mount": "HARDPOINT",
+      "position": [
+        51,
+        80
+      ],
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 003",
+      "locations": [
+        25,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "position": [
+        131,
+        0
+      ],
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 005",
+      "locations": [
+        17,
+        -48
+      ],
+      "mount": "HARDPOINT",
+      "position": [
+        51,
+        -75
+      ],
+      "size": "SMALL",
+      "type": "MISSILE"
+    }
+  ],
+  "width": 168
+}
