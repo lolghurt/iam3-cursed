@@ -1,0 +1,48 @@
+{
+  "id": "aBadIdea3_kvass",
+  "specClass": "beam",
+  "type": "ENERGY",
+  "size": "LARGE",
+  "collisionClass": "RAY",
+  "collisionClassByFighter": "RAY_FIGHTER",
+  "turretSprite": "",
+  "hardpointSprite": "",
+  "glowColor": [
+    61,
+    31,
+    13,
+    255
+  ],
+  "hitGlowRadius": 0,
+  "turretOffsets": [
+    0,
+    0
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    0,
+    0
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "fringeColor": [
+    55,
+    28,
+    12,
+    255
+  ],
+  "coreColor": [
+    53,
+    26,
+    10,
+    255
+  ],
+  "darkCore": true,
+  "width": 44,
+  "textureType": ROUGH2,
+  "textureScrollSpeed": 960,
+  "pixelsPerTexel": 1
+}
