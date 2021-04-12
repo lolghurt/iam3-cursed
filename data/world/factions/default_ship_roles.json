@@ -62,6 +62,8 @@
 		"kite_pirates_Raider":10,
 		"kite_luddic_path_Raider":5,
 		"kite_luddic_path_Strike":5,
+		
+		"aBadIdea3_blender_Standard":10,
 	},
 	"combatMedium":{
 		"aBadIdea3_hammerhead_Overdriven":2,
@@ -119,6 +121,8 @@
 		"aBadIdea3_Hounslaught_Standard":10,
 		
 		"aBadIdea3_jpeg_Standard":10,
+		
+		"aBadIdea3_bread_Artillery":10,
 	},
 	
 	"combatFreighterSmall":{
@@ -146,6 +150,8 @@
 	
 	"carrierLarge":{
 	"aBadIdea3_photobucket_Standard":10,
+	
+	"aBadIdea3_glock_Standard":10,
 	},
 	
 	"phaseLarge":{
