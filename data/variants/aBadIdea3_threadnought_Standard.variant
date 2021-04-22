@@ -1,17 +1,16 @@
 {
+  "variantId": "aBadIdea3_threadnought_Standard",
+  "hullId": "aBadIdea3_threadnought",
   "displayName": "Standard",
+  "goalVariant": true,
   "fluxCapacitors": 9,
   "fluxVents": 50,
-  "goalVariant": true,
-  "hullId": "aBadIdea3_threadnought",
-  "hullMods": [
-    "hardenedshieldemitter",
-    "stabilizedshieldemitter"
-  ],
-  "modules": [],
-  "permaMods": [],
   "quality": 0,
-  "variantId": "aBadIdea3_threadnought_Standard",
+  "permaMods": [],
+  "hullMods": [
+    "stabilizedshieldemitter",
+    "hardenedshieldemitter"
+  ],
   "weaponGroups": [
     {
       "autofire": false,
@@ -36,12 +35,12 @@
     },
     {
       "autofire": false,
-      "mode": "LINKED",
+      "mode": "ALTERNATING",
       "weapons": {
         "WS0011": "pilum",
         "WS0012": "pilum",
         "WS0013": "pilum",
-        "WS0014": "pilum",
+        "WS0015": "pilum",
         "WS0016": "pilum",
         "WS0017": "pilum",
         "WS0018": "pilum",
@@ -70,5 +69,6 @@
       "weapons": {}
     }
   ],
+  "modules": [],
   "wings": []
 }
